@@ -44,7 +44,8 @@ yolov2OutLayer = yolov2OutputLayer(detector.AnchorBoxes,'Classes',classNames,'Na
 lgraph = replaceLayer(lgraph,'yolov2Out',yolov2OutLayer);
 
 % Use analyzeNetwork to visualize the new network.
-analyzeNetwork(lgraph);
+% analyzeNetwork(lgraph);
+analyzeNetwork(lgraph)
 
 % You can pass the lgraph to trainYOLOv2ObjectDetector, to obtain 
 % yolov2ObjectDetector object trained on the custom dataset.
