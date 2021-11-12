@@ -1,6 +1,6 @@
 # YOLO v2 custom data object detection
 
-- This code is made for Image Pattern Recognition Project for Assignment 2
+- Download link ![here]()
 
 ## How to perform YOLOv2 analysation on the dataset:
 ### (Support .jpg only!!!)
