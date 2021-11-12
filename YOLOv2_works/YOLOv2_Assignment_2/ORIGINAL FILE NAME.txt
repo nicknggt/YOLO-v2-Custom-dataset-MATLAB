@@ -1,1 +1,0 @@
-Object-Detection-Using-Pretrained-YOLO-v2-main
