@@ -1,6 +1,6 @@
 # YOLO v2 custom data object detection
 
-- Download link ![here]()
+- Download link ![here](https://github.com/nicknggt/YOLO-v2-Custom-dataset-MATLAB/releases/download/v1.0/YOLO_v2_Custom_Dataset_darknet.zip)
 
 ## How to perform YOLOv2 analysation on the dataset:
 ### (Support .jpg only!!!)
